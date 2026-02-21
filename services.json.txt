@@ -1,0 +1,53 @@
+{
+  "birth_certificate": {
+    "name": "Birth Certificate",
+    "icon": "bi-file-earmark-text",
+    "keywords": ["birth", "janm"],
+    "description": "Apply for Birth Certificate online.",
+    "steps": [
+      "Login to portal",
+      "Fill child details",
+      "Upload hospital proof",
+      "Pay ₹100 fee",
+      "Submit application"
+    ]
+  },
+  "water_tax": {
+    "name": "Water Tax Payment",
+    "icon": "bi-droplet",
+    "keywords": ["water tax", "pani bill"],
+    "description": "Pay your water tax easily.",
+    "steps": [
+      "Enter consumer ID",
+      "Verify details",
+      "Check due amount",
+      "Pay securely",
+      "Download receipt"
+    ]
+  },
+  "property_tax": {
+    "name": "Property Tax Payment",
+    "icon": "bi-house",
+    "keywords": ["property tax", "ghar tax"],
+    "description": "Pay property tax online.",
+    "steps": [
+      "Enter property ID",
+      "View outstanding amount",
+      "Pay tax",
+      "Download receipt"
+    ]
+  },
+  "electricity_bill": {
+    "name": "Electricity Bill Payment",
+    "icon": "bi-lightning",
+    "keywords": ["electricity", "bijli bill"],
+    "description": "Pay your electricity bill.",
+    "steps": [
+      "Enter consumer number",
+      "Fetch bill",
+      "Confirm amount",
+      "Pay via gateway",
+      "Download receipt"
+    ]
+  }
+}
